@@ -1,0 +1,6 @@
+{
+  "name": "PulseCare",
+  "description": "Patient care companion for appointment booking, real-time queue tracking, clinical health snapshot, medical records, and digital insurance pass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
